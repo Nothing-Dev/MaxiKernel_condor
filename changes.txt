@@ -1,0 +1,12 @@
+First release - 15/08/2015
+
+Compiled from latest sources from CyanogenMod Repo.
+DoubleTap2Wake
+More governors:
+Smartmax
+Lionheart
+Intelliactive
+Wheatley
+Ondemandplus
+No more dirty in kernel version
+Optimized EXT4
