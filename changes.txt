@@ -1,8 +1,8 @@
+
 First release - 15/08/2015
 
-Compiled from latest sources from CyanogenMod Repo.
-DoubleTap2Wake
-More governors:
+Add DoubleTap2Wake
+Add more governors:
 Smartmax
 Lionheart
 Intelliactive
@@ -10,3 +10,13 @@ Wheatley
 Ondemandplus
 No more dirty in kernel version
 Optimized EXT4
+
+MaxiKernel 1.1 - 17/08/2015
+
+Add alucard governor
+Use Linaro 4.9 toolchain
+Low swappiness
+Enabled pipe flag
+Optimized slub
+Disable CRC check
+Aggressive multi-core power savings
