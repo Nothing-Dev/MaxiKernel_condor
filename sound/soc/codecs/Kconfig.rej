@@ -1,0 +1,12 @@
+--- sound/soc/codecs/Kconfig
++++ sound/soc/codecs/Kconfig
+@@ -503,3 +503,9 @@
+ 	depends on I2C
+ 	help
+ 	TPA6165A2 headset detection IC chip
++
++config SOUND_CONTROL_HAX_3_GPL
++	 tristate "new wcd9xxx sound control hax"
++	 default n
++	 help
++	 FauxSound wcd9xxx chipset sound control hacks 3.0 for deeper hax
