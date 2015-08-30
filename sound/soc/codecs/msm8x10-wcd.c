@@ -28,6 +28,7 @@
 #include <linux/of_gpio.h>
 #include <linux/regulator/consumer.h>
 #include <linux/mfd/wcd9xxx/pdata.h>
+#include <linux/mfd/wcd9xxx/core.h>
 #include <sound/pcm.h>
 #include <sound/pcm_params.h>
 #include <sound/soc.h>
